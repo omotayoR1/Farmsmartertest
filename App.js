@@ -7,7 +7,7 @@ import firestore from '@react-native-firebase/firestore'
 
 const {width, height} = Dimensions.get('screen')
 
-Mapbox.setAccessToken('pk.eyJ1IjoianVicmlsLWRhbWlsb2xhIiwiYSI6ImNsdGNwYXlnazA1djgybXFtdXVhY2U2ZXYifQ.rELY1cSBTWKu3d9NoI8h9Q')
+Mapbox.setAccessToken('')
 
 const App = () => {
     const [currentLatitude, setCurrentLatitude] = useState(0)
