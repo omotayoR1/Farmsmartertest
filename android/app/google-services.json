@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584904135740",
+    "project_id": "farmsmarter-2b7d1",
+    "storage_bucket": "farmsmarter-2b7d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584904135740:android:021813379c2e2fb3bcdf39",
+        "android_client_info": {
+          "package_name": "com.farmsmarter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB97RlDT0Z5ewfEXHTDZgkyQGk5dHLFZU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
